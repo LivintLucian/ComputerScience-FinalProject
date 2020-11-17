@@ -4,14 +4,6 @@
     "title": "Swagger arThek",
     "version": "1.0.0"
   },
-  "servers": [
-    {
-      "url": "https://petstore.swagger.io/v2"
-    },
-    {
-      "url": "http://petstore.swagger.io/v2"
-    }
-  ],
   "tags": [
     {
       "name": "user",
