@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.API\\arThek.API.csproj",
-      "projectName": "arThek.API",
-      "projectPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.API\\arThek.API.csproj",
+      "projectUniqueName": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.ServiceAbstraction\\arThek.ServiceAbstraction.csproj",
+      "projectName": "arThek.ServiceAbstraction",
+      "projectPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.ServiceAbstraction\\arThek.ServiceAbstraction.csproj",
       "packagesPath": "C:\\Users\\Gogu\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.API\\obj\\",
+      "outputPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.ServiceAbstraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gogu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,9 +54,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

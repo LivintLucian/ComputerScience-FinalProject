@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Common\\arThek.Common.csproj": {}
+    "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Entities\\arThek.Entities.csproj": {}
   },
   "projects": {
-    "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Common\\arThek.Common.csproj": {
+    "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Entities\\arThek.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Common\\arThek.Common.csproj",
-        "projectName": "arThek.Common",
-        "projectPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Common\\arThek.Common.csproj",
+        "projectUniqueName": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Entities\\arThek.Entities.csproj",
+        "projectName": "arThek.Entities",
+        "projectPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Entities\\arThek.Entities.csproj",
         "packagesPath": "C:\\Users\\Gogu\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Common\\obj\\",
+        "outputPath": "D:\\work\\Projects\\LicentaLutzi\\ComputerScience-FinalProject\\arThek- BackEnd\\arThek.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gogu\\AppData\\Roaming\\NuGet\\NuGet.Config",
